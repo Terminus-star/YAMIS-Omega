@@ -9,6 +9,54 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.4.3
+    - added
+        - apps/artix
+        - apps/distributor-logo-artix
+        - apps/distributor-logo-debian
+        - apps/distributor-logo-fedora
+        - apps/distributor-logo-kubuntu
+        - apps/distributor-logo-linux-mint
+        - apps/distributor-logo-opensuse
+        - apps/distributor-logo-pclinuxos
+        - apps/distributor-logo-pop-os
+        - apps/distributor-logo-solus
+        - apps/distributor-logo-Tumbleweed
+        - apps/distributor-logo-tumbleweed
+        - apps/distributor-logo-ubuntu
+        - apps/distributor-logo-zorin,svg
+        - apps/electron
+        - apps/io.github.freedoom.Phase1
+        - apps/io.github.freedoom.Phase2
+        - apps/krusader_blue
+        - apps/krusader_red
+        - apps/krusader_root
+        - apps/moonlight
+        - apps/systemsettings-alt
+        - apps/tumbleweed
+        - apps/ollama
+        - apps/Ollama
+        - apps/com.dekomote.vermouth
+        - apps/dev.ibrahimcetin.reins
+        - apps/com.cassidyjames.butler
+        - apps/konform
+        - apps/drawy
+        - apps/Drawy
+        - categories/preferences-system-alt
+        - preferences/preferences-system-windows-behavior-alt
+    - updated
+        - apps/com.github.neithern.g4music
+        - apps/electron34
+        - apps/electron35
+        - apps/electron37
+        - apps/electron41
+        - apps/gwenview
+        - apps/krusader_user
+        - apps/preferences-system
+        - apps/systemsettings
+        - categories/preferences-system
+        - preferences/preferences-system-windows-behavior
+
 - v1.4.2
     - added
         - apps/appimagekit-balena-etcher-electron
