@@ -9,6 +9,26 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.4.4
+    - added
+        - apps/devin-desktop
+        - apps/devin-desktop-alt
+        - apps/openrc-manager-gui
+        - apps/pcloud
+        - apps/veracrypt
+        - devices/headset
+    - updated
+        - apps/atom
+        - apps/distributor-logo-zorin (Fixed a silly mistake. I accidentally used a comma instead of a period for the extension.)
+        - apps/vscodium
+        - apps/zed
+    - resized
+        - apps/supertuxkart
+        - apps/io.github.arunsivaramanneo.GPUViewer
+        - apps/io.github.ilya_zlobintsev.LACT
+    - Note
+        Edited index.theme to tweaked the size, minsize and maxsize values.
+        
 - v1.4.3
     - added
         - apps/artix
