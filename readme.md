@@ -9,6 +9,17 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.4.5
+    - added
+        - apps/arianna
+        - apps/bruno
+        - apps/emacs
+        - apps/kdevelop
+        - apps/org.kde.arianna
+        - apps/org.kde.kdevelop
+    - updated
+        - apps/com.rtosta.zapzap
+
 - v1.4.4
     - added
         - apps/devin-desktop
