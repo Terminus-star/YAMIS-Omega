@@ -15,13 +15,13 @@ Directories=actions/16,actions/scalable,apps/16,apps/scalable,categories/scalabl
 Context=Actions
 Size=24
 MinSize=8
-MaxSize=32
+MaxSize=28
 Type=Scalable
 
 [actions/scalable]
 Context=Actions
 Size=64
-MinSize=33
+MinSize=29
 MaxSize=512
 Type=Scalable
 
@@ -29,13 +29,13 @@ Type=Scalable
 Context=Applications
 Size=24
 MinSize=8
-MaxSize=32
+MaxSize=28
 Type=Scalable
 
 [apps/scalable]
 Context=Applications
 Size=64
-MinSize=33
+MinSize=29
 MaxSize=512
 Type=Scalable
 
@@ -64,13 +64,13 @@ Type=Scalable
 Context=Places
 Size=24
 MinSize=8
-MaxSize=32
+MaxSize=28
 Type=Scalable
 
 [places/scalable]
 Context=Places
 Size=64
-MinSize=33
+MinSize=29
 MaxSize=512
 Type=Scalable
 

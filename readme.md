@@ -9,6 +9,17 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.4.6
+    - added
+        - apps/Beeper
+        - apps/krdc
+        - apps/latte-dock
+        - apps/re.sonny.Junction
+        - apps/trackma
+        - actions/document-scan
+        - actions/document-scan-symbolic
+        - places/folder-development
+
 - v1.4.5
     - added
         - apps/arianna
