@@ -9,6 +9,23 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.4.7
+    - added
+        - apps/hydrus_non-transparent
+        - apps/hydrus
+        - apps/io.github.elyprismlauncher.ElyPrismLauncher
+        - apps/io.mango3d.LycheeSlicer
+        - apps/lmstudio-bin
+        - apps/lycheeslicer
+        - apps/Myrlyn-alt
+        - apps/Myrlyn
+        - apps/next-music
+        - apps/portproton
+        - apps/ru.linux_gaming.PortProton
+        - apps/yast-control-center
+        - apps/yast-oneclick
+        - apps/yast-sw_single
+
 - v1.4.6
     - added
         - apps/Beeper
