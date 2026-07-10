@@ -9,6 +9,14 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.4.8
+    - added
+        - apps/cliamp
+        - apps/io.gitlab.azymohliad.WatchMate
+        - apps/watchmate
+    - updated
+        - apps/klassy-settings
+
 - v1.4.7
     - added
         - apps/hydrus_non-transparent
