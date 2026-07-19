@@ -9,6 +9,23 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.4.9
+    - added
+        - apps/appimagekit-cool-retro-term
+        - apps/calibre-ebook-edit
+        - apps/calibre-viewer
+        - apps/cool-retro-term
+        - apps/io.github.mhogomchungu.media-downloader
+        - apps/kubuntu-manage-software
+        - apps/media-downloader
+        - apps/org.opensuse.Welcome
+        - apps/proton-authenticator
+        - apps/smartphone
+        - apps/terminal
+    - updated
+        - preferences/preferences-desktop-theme-applications
+        - preferences/preferences-desktop-theme
+
 - v1.4.8
     - added
         - apps/cliamp
