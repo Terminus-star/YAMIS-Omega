@@ -9,6 +9,20 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.5.0
+    - added
+        - apps/virt-viewer
+        - apps/fontforge
+        - apps/hermes
+        - apps/org.fontforge.FontForge
+        - apps/org.vinegarhq.Vinegar
+        - apps/dev.xarbit.appgrid
+        - apps/klipper
+        - apps/knetattach
+        - apps/openclaw
+        - apps/vinegar
+        - actions/preferences-system-windows-actions
+
 - v1.4.9
     - added
         - apps/appimagekit-cool-retro-term
