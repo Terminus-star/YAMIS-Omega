@@ -9,6 +9,38 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.5.1
+    - added
+        - apps/com.github.jeromerobert.pdfarranger
+        - apps/fastflix
+        - apps/FastFlix
+        - apps/fcitx
+        - apps/info.febvre.Komikku
+        - apps/jami
+        - apps/klipper
+        - apps/Klipper
+        - apps/Knetattach
+        - apps/komikku
+        - apps/Kubuntu
+        - apps/marktext
+        - apps/notion
+        - apps/Notion
+        - apps/onionshare80
+        - apps/org.fcitx.Fcitx5
+        - apps/org.garudalinux.firedragon
+        - apps/org.gnumeric.gnumeric
+        - apps/org.kde.skrooge
+        - apps/org.onionshare.OnionShare
+        - apps/pdfarranger
+        - apps/redemption
+        - apps/skrooge
+        - apps/stirling-pdf
+        - apps/Stirling-PDF
+        - apps/texstudio
+        - apps/vkquake
+    - updated
+        - apps/hermes
+
 - v1.5.0
     - added
         - apps/virt-viewer
