@@ -9,6 +9,57 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.5.2
+    - added
+        - apps/AmneziaVPN
+        - apps/an-anime-game-launcher
+        - apps/app.motrix.native
+        - apps/arctis-manager
+        - apps/blockbench
+        - apps/chat.simplex.simplex
+        - apps/cloudflare
+        - apps/com.core447.StreamController
+        - apps/com.github.AppManager
+        - apps/com.github.th-ch.youtube-music
+        - apps/com.moulberry.PandoraLauncher
+        - apps/dev.lizardbyte.app.Sunshine
+        - apps/distributor-logo-rhel
+        - apps/envy24control
+        - apps/FlyEnv
+        - apps/granatier
+        - apps/Grok
+        - apps/hdajackretask
+        - apps/hdspconf
+        - apps/hdspmixer
+        - apps/hwmixvolume
+        - apps/hydralauncher
+        - apps/io.github.flattool.Warehouse
+        - apps/io.github.swordpuffin.rewaita
+        - apps/io.github.TeamWheelWizard.WheelWizard
+        - apps/io.github.wivrn.wivrn
+        - apps/io.gitlab.adhami3310.Converter
+        - apps/java26-openjdk
+        - apps/Kimi
+        - apps/me.proton.Pass
+        - apps/Mistral
+        - apps/moe.launcher.anime-games-launcher
+        - apps/nblood
+        - apps/nbtexplorer
+        - apps/net.agalwood.Motrix
+        - apps/net.jami.jami
+        - apps/optiscaler-client
+        - apps/pandora-launcher
+        - apps/Qoder
+        - apps/redhat
+        - apps/simplex
+        - apps/tailscale
+        - apps/tailscale-systray
+        - apps/wivrn
+        - apps/xclicker
+        - apps/zero-trust-orange
+    - updated
+        - apps/jami
+
 - v1.5.1
     - added
         - apps/com.github.jeromerobert.pdfarranger
