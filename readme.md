@@ -9,6 +9,55 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.5.3
+    - added
+        - apps/alvr-launcher
+        - apps/alvr
+        - apps/Hytale
+        - apps/net.poedit.Poedit
+        - apps/poedit
+        - apps/rsi-launcher
+        - apps/sone
+        - apps/starcitizen
+        - apps/webcord
+        - apps/wireguard-gui
+        - places/16/folder-blue
+        - places/16/folder-blue-symbolic
+        - places/16/folder-brown
+        - places/16/folder-brown-symbolic
+        - places/16/folder-cyan
+        - places/16/folder-cyan-symbolic
+        - places/16/folder-green
+        - places/16/folder-green-symbolic
+        - places/16/folder-grey
+        - places/16/folder-grey-symbolic
+        - places/16/folder-orange
+        - places/16/folder-orange-symbolic
+        - places/16/folder-red
+        - places/16/folder-red-symbolic
+        - places/16/folder-violet
+        - places/16/folder-violet-symbolic
+        - places/16/folder-yellow
+        - places/16/folder-yellow-symbolic
+        - places/scalable/folder-blue
+        - places/scalable/folder-brown
+        - places/scalable/folder-cyan
+        - places/scalable/folder-green
+        - places/scalable/folder-grey
+        - places/scalable/folder-orange
+        - places/scalable/folder-red
+        - places/scalable/folder-violet
+        - places/scalable/folder-yellow
+        - places/scalable-outlined/folder-blue
+        - places/scalable-outlined/folder-brown
+        - places/scalable-outlined/folder-cyan
+        - places/scalable-outlined/folder-green
+        - places/scalable-outlined/folder-grey
+        - places/scalable-outlined/folder-orange
+        - places/scalable-outlined/folder-red
+        - places/scalable-outlined/folder-violet
+        - places/scalable-outlined/folder-yellow
+
 - v1.5.2
     - added
         - apps/AmneziaVPN
