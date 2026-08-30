@@ -9,6 +9,30 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.5.4
+    - added
+        - apps/com.hypixel.HytaleLauncher
+        - apps/com.ticktick.TickTick
+        - apps/duolingo
+        - apps/io.github.nacho.mecalin
+        - apps/kapman
+        - apps/org.kde.kapman
+        - apps/ticktick
+        - apps/wps-office2019-kprometheus
+        - apps/wps-office-etmain
+        - apps/wps-office-pdfmain
+        - apps/wps-office-wppmain
+        - apps/wps-office-wpsmain
+        - status/wireguard-tray-connected
+        - status/wireguard-tray-disconnected
+    - updated
+        - apps/preferences-desktop-theme-applications
+        - apps/preferences-desktop-theme
+        - preferences/preferences-appearance
+        - preferences/preferences-desktop-theme-applications
+        - preferences/preferences-desktop-theme-global
+        - preferences/preferences-desktop-theme
+
 - v1.5.3
     - added
         - apps/alvr-launcher
