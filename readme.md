@@ -9,6 +9,45 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.5.5
+    - added
+        - apps/GitKraken
+        - apps/YACReader
+        - apps/Yacreader
+        - apps/chatgpt
+        - apps/citrix-receiver
+        - apps/com.axosoft.GitKraken
+        - apps/com.github.huluti.Curtail
+        - apps/com.yacreader.YACReader
+        - apps/dev.zed.Delta
+        - apps/espanso
+        - apps/exaile
+        - apps/gitkraken
+        - apps/io.github.bluemancz.hyprmod
+        - apps/io.github.quodlibet.ExFalso
+        - apps/io.github.quodlibet.QuodLibet
+        - apps/ipython
+        - apps/jellyfin
+        - apps/kbreakout
+        - apps/krfb
+        - apps/localsend_app
+        - apps/net.nullsum.JelliumDesktop
+        - apps/nuvio
+        - apps/org.exaile.Exaile
+        - apps/org.kde.kbreakout
+        - apps/org.kde.skladnik
+        - apps/org.zulip.Zulip
+        - apps/quodlibet
+        - apps/signal
+        - apps/skladnik
+        - apps/super-productivity
+        - apps/zulip
+    - updated
+        - apps/org.signal.Signal
+        - apps/signal-desktop
+        - apps/signal-desktop-beta
+        - status/strawberry-panel-grey
+
 - v1.5.4
     - added
         - apps/com.hypixel.HytaleLauncher
