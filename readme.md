@@ -9,6 +9,73 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.5.6
+    - added
+        - apps/Cisco_Packet_Tracer_9.0.1
+        - apps/GameConqueror
+        - apps/RuneLite
+        - apps/ScanTailor
+        - apps/appimagekit-chiaki
+        - apps/appimagekit-drawpile
+        - apps/appimagekit-rpcs3
+        - apps/audacity4portable
+        - apps/ausweisapp
+        - apps/azahar
+        - apps/chiaki
+        - apps/clash
+        - apps/com.github._4lex4.ScanTailor-Advanced
+        - apps/com.mtkennerly.ludusavi
+        - apps/com.orama_interactive.Pixelorama
+        - apps/com.parsecgaming.parsec
+        - apps/com.steamgriddb.SGDBoop
+        - apps/com.yubico.yubioath
+        - apps/de.bund.ausweisapp.ausweisapp2
+        - apps/dev.goats.xivlauncher
+        - apps/dev.twilitrealm.dusk
+        - apps/drawpile
+        - apps/dusk
+        - apps/dusklight
+        - apps/f3d
+        - apps/feishin
+        - apps/flycast
+        - apps/imhex
+        - apps/io.github.f3d_app.f3d
+        - apps/io.github.streetpea.Chiaki4deck
+        - apps/io.github.vikdevelop.SaveDesktop
+        - apps/me.amankhanna.opendeck
+        - apps/net.drawpile.drawpile
+        - apps/net.rpcs3.RPCS3
+        - apps/net.runelite.RuneLite
+        - apps/net.werwolv.ImHex
+        - apps/nifskope
+        - apps/org.azahar_emu.Azahar
+        - apps/org.easyrpg.player
+        - apps/org.flycast.Flycast
+        - apps/org.niftools.NifSkope
+        - apps/org.ryujinx.Ryujinx
+        - apps/org.scantailor.ScanTailor
+        - apps/org.zdoom.UZDoom
+        - apps/packettracer
+        - apps/parsec
+        - apps/parsecd
+        - apps/pixelorama
+        - apps/re.chiaki.Chiaki
+        - apps/rpcs3
+        - apps/runelite-launcher
+        - apps/runelite
+        - apps/ryujinx
+        - apps/scantailor-advanced
+        - apps/scantailor
+        - apps/uzdoom
+        - apps/yubikey-neo-manager
+        - apps/yubikey-personalization-gui
+        - apps/yubikey-piv-manager
+        - apps/yubioath
+        - mimetypes/application-x-audacity
+    - updated
+        - apps/systemsettings
+        - preferences/preferences-system
+
 - v1.5.5
     - added
         - apps/GitKraken
