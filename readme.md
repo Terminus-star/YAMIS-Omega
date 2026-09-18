@@ -9,6 +9,31 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.5.7
+    - added
+        - apps/Plezy
+        - app/clamui
+        - apps/input-remapper
+        - apps/io.github.linx_systems.ClamUI
+        - apps/io.github.martchus.syncthingtray
+        - apps/jetbrains-goland
+        - apps/jetbrains-idea
+        - apps/koreader
+        - apps/kwatchgnupg
+        - apps/me.proton.Mail
+        - apps/org.kde.kwatchgnupg
+        - apps/org.waywallen.waywallen
+        - apps/plezy
+        - apps/rocks.koreader.KOReader
+        - apps/syncthingtray
+        - apps/waywallen
+    - updated
+        - apps/firefox
+        - apps/firefox-symbolic
+        - apps/org.mozilla.firefox
+    - fixed
+        - remove unused CSS class
+
 - v1.5.6
     - added
         - apps/Cisco_Packet_Tracer_9.0.1
