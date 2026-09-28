@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9}</style></defs>
- <g style="fill:currentColor" class="ColorScheme-Text" transform="translate(3,-1029.4)">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#FBEFDF}</style><linearGradient id="me-g0" gradientUnits="userSpaceOnUse" x1="0.0000" y1="0.0000" x2="0.0000" y2="24.0000" gradientTransform="matrix(1.000000 -0.000000 -0.000000 1.000000 -3.000000 1029.400000)"><stop offset="0" stop-color="#FBEFDF"/><stop offset="1" stop-color="#C98A4E"/></linearGradient></defs>
+ <g style="fill:url(#me-g0)" class="ColorScheme-Text" transform="translate(3,-1029.4)">
   <rect width="8" height="15" x="5" y="1034.4" rx="1" ry="1" style=""/>
   <path d="m2.25 1035.4c-0.1385 0-0.25 0.1115-0.25 0.25v0.5c0 0.1385 0.1115 0.25 0.25 0.25h1.75v-1h-1.75zm0 2c-0.1385 0-0.25 0.1115-0.25 0.25v0.5c0 0.1385 0.1115 0.25 0.25 0.25h1.75v-1h-1.75zm0 2c-0.1385 0-0.25 0.1115-0.25 0.25v0.5c0 0.1385 0.1115 0.25 0.25 0.25h1.75v-1h-1.75zm0 2c-0.1385 0-0.25 0.1115-0.25 0.25v0.5c0 0.1385 0.1115 0.25 0.25 0.25h1.75v-1h-1.75zm0 2c-0.1385 0-0.25 0.1115-0.25 0.25v0.5c0 0.1385 0.1115 0.25 0.25 0.25h1.75v-1h-1.75zm0 2c-0.1385 0-0.25 0.1115-0.25 0.25v0.5c0 0.1385 0.1115 0.25 0.25 0.25h1.75v-1h-1.75zm0 2c-0.1385 0-0.25 0.1115-0.25 0.25v0.5c0 0.1385 0.1115 0.25 0.25 0.25h1.75v-1h-1.75z" style=""/>
   <path d="m15.75 1035.4c0.1385 0 0.25 0.1115 0.25 0.25v0.5c0 0.1385-0.1115 0.25-0.25 0.25h-1.75v-1h1.75zm0 2c0.1385 0 0.25 0.1115 0.25 0.25v0.5c0 0.1385-0.1115 0.25-0.25 0.25h-1.75v-1h1.75zm0 2c0.1385 0 0.25 0.1115 0.25 0.25v0.5c0 0.1385-0.1115 0.25-0.25 0.25h-1.75v-1h1.75zm0 2c0.1385 0 0.25 0.1115 0.25 0.25v0.5c0 0.1385-0.1115 0.25-0.25 0.25h-1.75v-1h1.75zm0 2c0.1385 0 0.25 0.1115 0.25 0.25v0.5c0 0.1385-0.1115 0.25-0.25 0.25h-1.75v-1h1.75zm0 2c0.1385 0 0.25 0.1115 0.25 0.25v0.5c0 0.1385-0.1115 0.25-0.25 0.25h-1.75v-1h1.75zm0 2c0.1385 0 0.25 0.1115 0.25 0.25v0.5c0 0.1385-0.1115 0.25-0.25 0.25h-1.75v-1h1.75z" style=""/>

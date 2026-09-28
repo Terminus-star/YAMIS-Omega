@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9}</style></defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#FBEFDF}</style><linearGradient id="me-g0" gradientUnits="userSpaceOnUse" x1="0.0000" y1="0.0000" x2="0.0000" y2="24.0000" gradientTransform="matrix(1.000000 -0.000000 -0.000000 1.000000 56.000000 596.360000)"><stop offset="0" stop-color="#FBEFDF"/><stop offset="1" stop-color="#C98A4E"/></linearGradient></defs>
  <g transform="translate(-56 -596.36)" style="">
-  <path opacity=".35" style="fill:currentColor" class="ColorScheme-Text" d="m61 615.37 14-14v14z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m72 604.37-11 11h11v-11z"/>
+  <path opacity=".35" style="fill:url(#me-g0)" class="ColorScheme-Text" d="m61 615.37 14-14v14z"/>
+  <path style="fill:url(#me-g0)" class="ColorScheme-Text" d="m72 604.37-11 11h11v-11z"/>
  </g>
 </svg>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9}</style></defs>
- <path fill-rule="evenodd" style="fill:currentColor" class="ColorScheme-Text" d="m4 4.0004v14h4.0002v2.9999l2.9998-2.9999h4.9997l4-4v-10zm4.0002 4.0003h1.9999v5.9999h-1.9999zm5.9997 0h1.9999v5.9999h-1.9999z"/>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#FBEFDF}</style><linearGradient id="me-g0" gradientUnits="userSpaceOnUse" x1="0.0000" y1="0.0000" x2="0.0000" y2="24.0000"><stop offset="0" stop-color="#FBEFDF"/><stop offset="1" stop-color="#C98A4E"/></linearGradient></defs>
+ <path fill-rule="evenodd" style="fill:url(#me-g0)" class="ColorScheme-Text" d="m4 4.0004v14h4.0002v2.9999l2.9998-2.9999h4.9997l4-4v-10zm4.0002 4.0003h1.9999v5.9999h-1.9999zm5.9997 0h1.9999v5.9999h-1.9999z"/>
 </svg>

@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9}</style></defs>
- <rect style="opacity:.35;fill:currentColor" class="ColorScheme-Text" width="3" height="4" x="15" y="16"/>
- <circle style="opacity:.35;fill:currentColor" class="ColorScheme-Text" cx="16.5" cy="13.5" r="1.5"/>
- <path style="opacity:.35;stroke:currentColor;stroke-width:2;fill:none" class="ColorScheme-Text" d="m8 15a10 10 0 0 1 10 -10"/>
- <path style="opacity:.35;stroke:currentColor;stroke-width:2;fill:none" class="ColorScheme-Text" d="m12 15a6 6 0 0 1 6 -6"/>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#FBEFDF}</style><linearGradient id="me-g0" gradientUnits="userSpaceOnUse" x1="0.0000" y1="0.0000" x2="0.0000" y2="24.0000"><stop offset="0" stop-color="#FBEFDF"/><stop offset="1" stop-color="#C98A4E"/></linearGradient></defs>
+ <rect style="opacity:.35;fill:url(#me-g0)" class="ColorScheme-Text" width="3" height="4" x="15" y="16"/>
+ <circle style="opacity:.35;fill:url(#me-g0)" class="ColorScheme-Text" cx="16.5" cy="13.5" r="1.5"/>
+ <path style="opacity:.35;stroke:url(#me-g0);stroke-width:2;fill:none" class="ColorScheme-Text" d="m8 15a10 10 0 0 1 10 -10"/>
+ <path style="opacity:.35;stroke:url(#me-g0);stroke-width:2;fill:none" class="ColorScheme-Text" d="m12 15a6 6 0 0 1 6 -6"/>
 </svg>
